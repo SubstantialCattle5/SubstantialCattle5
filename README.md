@@ -6,7 +6,7 @@ My name is Nilay, I mostly work on Python,HTML,and CSS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&theme=dark&layout=compact)](https://github.com/SubstantialCattle5/github-readme-stats)
 
-Reach me instagram :  @pagan.min 
+Reach me on instagram :  @pagan.min 
 
 
 
