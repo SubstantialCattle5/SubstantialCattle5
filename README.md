@@ -6,6 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&theme=dark&layout=compact)](https://github.com/SubstantialCattle5/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=SubstantialCatttle5e&color=green)
+
+
 Reach me on instagram :  @pagan.min 
 
 
