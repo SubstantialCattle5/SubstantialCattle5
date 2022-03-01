@@ -9,6 +9,11 @@ Future Plans - Help AI in world domination.
  
  
  
+<div align="center">
+  <a href="https://open.spotify.com/album/34ab3JCEURvhiRF3Cbhwaz">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
  
 </p>
 
