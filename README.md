@@ -9,6 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=SubstantialCatttle5e&color=green)
 
 
+>"If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot." -  Gilfoyle
+<br> 
 Reach me on instagram :  @pagan.min 
 
 
