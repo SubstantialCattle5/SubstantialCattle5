@@ -5,7 +5,7 @@
  I'm a first year student in VIT VELLORE
  Currently learning Web Deveopment🌐 and Machine Learning🤖.
  
-Future Plans - Help AI in world domination.
+ Future Plans - <i>Help AI in world domination.</i>
  
  
  
