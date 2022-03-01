@@ -3,7 +3,7 @@
 <p>
  
  I'm a first year student in VIT VELLORE - ECE Branch  
- Currently learning Web deveopment and Machine Learning.
+ Currently learning Web Deveopment and Machine Learning.
  
 Future Plans - Help AI in world domination.
  
