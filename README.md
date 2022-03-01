@@ -7,6 +7,9 @@
  
 Future Plans - Help AI in world domination.
  
+ 
+ 
+ 
 </p>
 
 <!--Credits goes to Anuragharza-->
