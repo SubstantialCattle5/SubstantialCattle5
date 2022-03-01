@@ -9,18 +9,22 @@ Future Plans - Help AI in world domination.
  
  
  
-<div align="center">
-  <a href="https://open.spotify.com/album/34ab3JCEURvhiRF3Cbhwaz">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
- 
+
 </p>
 
-<!--Credits goes to Anuragharza-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&theme=gotham&layout=compact)](https://github.com/SubstantialCattle5/github-readme-stats)
+## My Statistics
+
+ 
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=gotham&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubstantialCattle5&theme=gotham&hide_border=true" />
+  </a>
+</p>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&layout=compact&theme=gotham&hide_border=true)
+
 
 
 
