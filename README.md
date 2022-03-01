@@ -1,5 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<p>
+ 
+ I'm a first year student(2nd sem) in VIT VELLORE - ECE Branch  
+ Currently learning Web deveopment and Machine Learning.
+ 
+Future Plans - Help AI in world domination.
+ 
+</p>
 
 <!--Credits goes to Anuragharza-->
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=dark )
