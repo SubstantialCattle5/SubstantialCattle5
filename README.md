@@ -13,7 +13,7 @@ Future Plans - Help AI in world domination.
 </p>
 
 <!--Credits goes to Anuragharza-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&theme=gotham&layout=compact)](https://github.com/SubstantialCattle5/github-readme-stats)
 
