@@ -17,7 +17,7 @@ Future Plans - Help AI in world domination.
 
  
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/SubstantialCattle5">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=gotham&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubstantialCattle5&theme=gotham&hide_border=true" />
   </a>
