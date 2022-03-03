@@ -3,7 +3,7 @@
 <p>
  
  I'm a first year student in VIT VELLORE
- Currently learning Web Deveopment🌐 and Machine Learning🤖.
+ Currently learning Web Deveopment🌐 and Machine Learning🤖
  
  Future Plans - <i>Help AI in world domination.</i>
  
