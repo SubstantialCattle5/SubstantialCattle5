@@ -8,8 +8,7 @@
  Currently learning Web Deveopment🌐 and Machine Learning🤖
  
  Future Plans - <i>Help AI in world domination.</i>
- 
- 
+  
  
 
 </p>
