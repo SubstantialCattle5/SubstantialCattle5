@@ -35,8 +35,6 @@
 
 If you have a project that you want to get started, think you need my help with something or just fancy talking about world domination, then get in touch!
 
-
-
  
 
  
