@@ -25,8 +25,6 @@ I'm a Second year student in VIT VELLORE Currently learning Web Deveopment and B
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=AMAZON_BOOK_PRICE_WEBSITE&theme=gotham&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=flight_price_checker&theme=gotham&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=PASSWORD_MANAGER&theme=gotham&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=COOKIE_CLICKER_BOT&theme=gotham&hide_border=true)
 
 ## Hacktoberfest'22!
 
