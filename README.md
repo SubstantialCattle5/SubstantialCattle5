@@ -20,26 +20,7 @@
 I'm a Second year student in VIT VELLORE Currently learning Web Deveopment and Blockchain
 <br/>
 
-## Cool Projects
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=AMAZON_BOOK_PRICE_WEBSITE&theme=gotham&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=flight_price_checker&theme=gotham&hide_border=true)
-
-## Hacktoberfest'22!
-
-List of projects contributed to and achivements obtained during Hacktoberfest'22. 
-
-### Projects - 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=vbay&theme=gotham&hide_border=true)](https://github.com/csivitu/vbay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=ArcadeGames&theme=gotham&hide_border=true)](https://github.com/csivitu/ArcadeGames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=webdice&theme=gotham&hide_border=true)](https://github.com/csivitu/webdice/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=Evie-frontend&theme=gotham&hide_border=true)](https://github.com/csivitu/Evie-frontend/)
-
-### Badges - 
-
-[![@samless's Holopin board](https://holopin.io/api/user/board?user=samless)](https://holopin.io/@samless)
 
 
 ## My Statistics
@@ -51,7 +32,11 @@ List of projects contributed to and achivements obtained during Hacktoberfest'22
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubstantialCattle5&theme=gotham&hide_border=true" />
   </a>
 </p>
- 
+
+## Hacktoberfest'22!
+
+[![@samless's Holopin board](https://holopin.io/api/user/board?user=samless)](https://holopin.io/@samless)
+
 
 
 
