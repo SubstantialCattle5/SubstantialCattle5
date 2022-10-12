@@ -1,15 +1,47 @@
-# Hello, folks! 
 
-<p>
- 
- I'm a first year student in VIT VELLORE
- Currently learning Web Deveopment🌐 and Machine Learning🤖
- 
- Future Plans - <i>Help AI in world domination.</i>
-  
- 
 
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=42&duration=4997&pause=1000&color=27F770&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=%3C+Nilay%2F%3E)](https://git.io/typing-svg)
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🎷 Nilay Sharan | 💊 Web3 Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
+<p align='center'>
+ <a href="https://www.linkedin.com/in/nilay-nath-sharan-28545a235/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/pagan.min/"><img height="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+
+ </p>
+
+## About Me 
+
+I'm a Second year student in VIT VELLORE Currently learning Web Deveopment and Blockchain
+<br/>
+
+## Cool Projects
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=AMAZON_BOOK_PRICE_WEBSITE&theme=gotham&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=flight_price_checker&theme=gotham&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=PASSWORD_MANAGER&theme=gotham&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubstantialCattle5&repo=COOKIE_CLICKER_BOT&theme=gotham&hide_border=true)
+
+## Hacktoberfest'22!
+
+List of projects contributed to and achivements obtained during Hacktoberfest'22. 
+
+### Projects - 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=vbay&theme=gotham&hide_border=true)](https://github.com/csivitu/vbay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=ArcadeGames&theme=gotham&hide_border=true)](https://github.com/csivitu/ArcadeGames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=webdice&theme=gotham&hide_border=true)](https://github.com/csivitu/webdice/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csivitu&repo=Evie-frontend&theme=gotham&hide_border=true)](https://github.com/csivitu/Evie-frontend/)
+
+### Badges - 
+
+[![@samless's Holopin board](https://holopin.io/api/user/board?user=samless)](https://holopin.io/@samless)
 
 
 ## My Statistics
@@ -22,7 +54,9 @@
   </a>
 </p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubstantialCattle5&layout=compact&theme=gotham&hide_border=true)
+
+
+
 
 
 
@@ -38,5 +72,4 @@ If you have a project that you want to get started, think you need my help with 
  
 
  
- [![@samless's Holopin board](https://holopin.io/api/user/board?user=samless)](https://holopin.io/@samless)
 
