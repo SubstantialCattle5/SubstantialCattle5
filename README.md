@@ -17,7 +17,7 @@
 
 ## About Me 
 
-I'm a Second year student in VIT VELLORE Currently learning Web Deveopment and Blockchain
+I'm a second year student in VIT VELLORE Currently learning Web Deveopment and Blockchain
 <br/>
 
 
