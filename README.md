@@ -3,17 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=42&duration=4997&pause=1000&color=27F770&background=FFFFFF00&center=true&vCenter=true&width=1000&lines=%3C+Nilay%2F%3E)](https://git.io/typing-svg)
 
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🎷 Nilay Sharan | 💊 Web3 Developer | 🇮🇳 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
 
 
-<p align='center'>
- <a href="https://www.linkedin.com/in/nilay-nath-sharan-28545a235/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/pagan.min/"><img height="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?raw=true"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
- </p>
+
 
 ## About Me 
 
@@ -51,7 +44,12 @@ I'm a second year student in VIT VELLORE Currently learning Web Deveopment and B
 
 If you have a project that you want to get started, think you need my help with something or just fancy talking about world domination, then get in touch!
 
+<p align='left'>
+ <a href="https://www.linkedin.com/in/nilay-nath-sharan-28545a235/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/pagan.min/"><img height="30" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
+ </p>
  
 
  
