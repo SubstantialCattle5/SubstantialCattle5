@@ -19,7 +19,7 @@ I'm a second year student in VIT VELLORE Currently learning Web Deveopment and B
 ## My Statistics
 
  
-<p align="left">
+<p align="center">
   <a href="https://github.com/SubstantialCattle5">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SubstantialCattle5&show_icons=true&theme=gotham&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubstantialCattle5&theme=gotham&hide_border=true" />
