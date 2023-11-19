@@ -10,7 +10,7 @@
 
 ## About Me 
 
-I'm Nilay, a programmer who is passionate about full stack web development, ethical hacking and blockchain. I believe programming should solve real-world problems and create value. I build products with robust functionality and secure code.<br/>
+I make stuff.<br/>
 
 
 
