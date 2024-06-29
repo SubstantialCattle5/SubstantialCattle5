@@ -34,6 +34,38 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 ## 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 402 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   30.65 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SubstantialCattle5/SubstantialCattle5/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/06/2024 20:00:21 UTC
 <!--END_SECTION:waka-->
 
 ---
