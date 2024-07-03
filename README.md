@@ -36,12 +36,13 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-Total Time: 20 hrs 40 mins
+Total Time: 21 hrs 49 mins
 
-Bash               5 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Other              3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Bash               12 hrs 31 mins  ████████████▓░░░░░░░░░░░░   50.18 %
+Jupyter            3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Other              3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
 ```
 
 <!--END_SECTION:waka-->
