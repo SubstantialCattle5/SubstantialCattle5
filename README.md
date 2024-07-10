@@ -1,5 +1,3 @@
-# 👋 Hey there, World! Welcome to My GitHub Profile!
-
 ### I'm Nilay 🌟 | Software Developer | Backend Enthusiast | DevOps Specialist
 
 ## About Me
@@ -68,26 +66,12 @@ Hybrid Cloud Integration of Amazon Webservices and Openstack.
 - Email: [nilaynathsharan16@gmail.com](mailto:nilaynathsharan16@gmail.com)
 - Instagram: [nilay.sharan](https://www.instagram.com/nilay.sharan/)
 
----
-
-## 📝 Latest Blog Posts
-
-- [How to Automate Data Exports with Ceph and Bash](https://yourblog.com/post1)
-- [Understanding Kubernetes: A Beginner's Guide](https://yourblog.com/post2)
-
----
 
 ## 📚 Learning & Development
 
-- Currently reading: [Your Current Book](https://yourbooklink.com)
+- Currently reading: [Hitchhikers guide to galaxy](https://yourbooklink.com)
 - Exploring: Advanced Kubernetes features, Ceph storage optimization
 
----
-
-## 🌟 Highlights
-
-- Contributor to [Open Source Project](https://github.com/opensourceproject)
-- Speaker at [Tech Conference](https://techconference.com)
 
 ---
 
