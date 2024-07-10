@@ -36,17 +36,16 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2024 - To: 07 July 2024
+From: 01 July 2024 - To: 08 July 2024
 
-Total Time: 27 hrs 16 mins
+Total Time: 24 hrs 47 mins
 
-Bash         26 hrs 16 mins  ████████████████████████░   96.28 %
-Jupyter      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Go           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-go.mod       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash             19 hrs 46 mins  ████████████████████░░░░░   79.69 %
+Go               4 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+Shell Script     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+go.mod           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
