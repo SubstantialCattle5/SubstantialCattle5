@@ -52,8 +52,8 @@ Other            0 secs          ░░░░░░░░░░░░░░░�
 
 ## 🚀 Projects
 
-### [Project 1: Ceph Management Scripts](https://github.com/yourusername/project1)
-Automated scripts for managing data exports and checksum calculations using Ceph and Bash.
+### [Project 1: Sundara K](https://github.com/SubstantialCattle5/Sundara-K)
+A backend framework writter purely in C. 
 
 ### [Project 2: Hybrid Cloud b/w AWS and Openstack](https://github.com/yourusername/project1)
 Hybrid Cloud Integration of Amazon Webservices and Openstack. 
