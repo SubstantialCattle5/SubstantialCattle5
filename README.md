@@ -34,20 +34,20 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2024 - To: 13 July 2024
+From: 07 July 2024 - To: 14 July 2024
 
-Total Time: 20 hrs 16 mins
+Total Time: 19 hrs 59 mins
 
-Go               18 hrs          ██████████████████████▒░░   88.72 %
-GitIgnore file   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-TypeScript       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-textmate         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Shell Script     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Prisma           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Go               17 hrs 46 mins  ██████████████████████▒░░   88.80 %
+GitIgnore file   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TypeScript       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+YAML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+textmate         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Shell Script     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Prisma           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Python           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-go.mod           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+go.mod           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
