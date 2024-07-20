@@ -34,17 +34,19 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-Total Time: 12 hrs 34 mins
+Total Time: 16 hrs 15 mins
 
-Go               5 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.07 %
-Python           5 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.35 %
-GitIgnore file   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-TypeScript       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-YAML             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Go               5 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.68 %
+Python           5 hrs 1 min     ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+YAML             2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Bash             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+GitIgnore file   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+TypeScript       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+GraphQL          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
