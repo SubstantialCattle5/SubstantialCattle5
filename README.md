@@ -34,20 +34,15 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2024 - To: 22 July 2024
+From: 17 July 2024 - To: 24 July 2024
 
-Total Time: 22 hrs 41 mins
+Total Time: 18 hrs 39 mins
 
-Go           6 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-TypeScript   6 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Python       5 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-YAML         1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Bash         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-GraphQL      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Go               8 hrs           ██████████▒░░░░░░░░░░░░░░   41.98 %
+TypeScript       6 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
+YAML             1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Bash             1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
