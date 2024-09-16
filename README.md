@@ -34,11 +34,12 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2024 - To: 13 September 2024
+From: 07 September 2024 - To: 14 September 2024
 
-Total Time: 17 hrs 13 mins
+Total Time: 19 hrs 9 mins
 
-Other        6 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+TypeScript   7 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+Other        6 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
 ```
 
 <!--END_SECTION:waka-->
