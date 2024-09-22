@@ -34,17 +34,18 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Total Time: 23 hrs 10 mins
+Total Time: 21 hrs 56 mins
 
-TypeScript   20 hrs 42 mins  ██████████████████████▒░░   88.85 %
-JSON         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TSConfig     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-MDX          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript   19 hrs 40 mins  ██████████████████████▒░░   89.12 %
+JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TSConfig     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+MDX          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
