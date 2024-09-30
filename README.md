@@ -34,7 +34,7 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
 Total Time: 4 hrs 54 mins
 
