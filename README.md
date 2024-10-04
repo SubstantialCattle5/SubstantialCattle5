@@ -1,4 +1,6 @@
-### I'm Nilay 🌟 | Software Developer | Backend Enthusiast | DevOps Specialist
+
+[![An image of @samless's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samless)](https://holopin.io/@samless)
+# I'm Nilay 🌟 | Software Developer | Backend Enthusiast 
 
 ## About Me
 
