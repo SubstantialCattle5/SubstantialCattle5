@@ -36,17 +36,18 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
-Total Time: 50 hrs 18 mins
+Total Time: 44 hrs 33 mins
 
-TypeScript   33 hrs          ████████████████▒░░░░░░░░   65.45 %
-Docker       5 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Prisma       3 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Bash         2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-TSConfig     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JavaScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   25 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.05 %
+Docker       5 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+Vue.js       3 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Bash         2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Prisma       1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+TSConfig     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JavaScript   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
