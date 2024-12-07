@@ -36,11 +36,11 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Total Time: 2 hrs 13 mins
+Total Time: 1 hr 42 mins
 
-JavaScript   2 hrs 13 mins   █████████████████████████   100.00 %
+JavaScript   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
