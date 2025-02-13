@@ -36,17 +36,18 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 62 hrs 42 mins
+Total Time: 58 hrs 2 mins
 
-TypeScript   44 hrs 22 mins  █████████████████▓░░░░░░░   70.77 %
-Prisma       13 hrs 33 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Python       3 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Git Config   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash         22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   40 hrs 21 mins  █████████████████▒░░░░░░░   69.54 %
+Prisma       12 hrs 45 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+Python       3 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Bash         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Git Config   23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
