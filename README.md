@@ -36,15 +36,15 @@ Hello, fellow developers! I'm Nilay, a passionate software developer with a knac
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Total Time: 71 hrs 29 mins
+Total Time: 68 hrs 20 mins
 
-TypeScript   58 hrs 31 mins  ████████████████████▒░░░░   81.84 %
-Markdown     3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-HTML         2 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-CSS          1 hr 58 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   55 hrs 13 mins  ████████████████████▒░░░░   80.79 %
+Markdown     3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+HTML         2 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+CSS          2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Bash         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
