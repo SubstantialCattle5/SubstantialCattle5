@@ -1,6 +1,5 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=substantialcattle5)
 
-## 📊 Weekly Coding Stats
+## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
 
