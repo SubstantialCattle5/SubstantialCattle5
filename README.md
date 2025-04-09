@@ -1,4 +1,3 @@
-
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
@@ -21,5 +20,5 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+> "People don't quit Vim. They just die at some point."
 
